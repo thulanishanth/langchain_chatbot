@@ -4,6 +4,5 @@ langchain
 langchain_community
 langchain_openai
 openai
-openai==0.28.0
 python-dotenv
 streamlit
