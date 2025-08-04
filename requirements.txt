@@ -3,7 +3,8 @@
 langchain
 langchain_community
 langchain_openai
+langchain-community
+langchain-openai
 openai
-openai==0.28.0
 python-dotenv
 streamlit
